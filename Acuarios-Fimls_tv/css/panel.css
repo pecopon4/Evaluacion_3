@@ -1,0 +1,33 @@
+.panel_reels{
+    display: flex;
+    justify-content: space-between;
+}
+.panel_reels img{
+    margin: 10px;
+}
+
+.panel_noticias{
+    display: flex;
+    justify-content: space-between;
+}
+.panel_noticias img{
+    margin: 10px;
+}
+
+.panel_series{
+    display: flex;
+    justify-content: space-between;
+}
+
+.panel_series img{
+    width: auto;
+    margin: 10px;
+}
+
+.hideText {
+    display: none;
+  }
+  
+  .showText {
+    display: block;
+  }
